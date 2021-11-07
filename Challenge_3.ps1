@@ -356,5 +356,5 @@ elseif ($option -eq "3") {
 }
 
 # Fin du code principal
-Write-Verbose "[CodePrincipal] Entrée dans le code principal"
+Write-Verbose "[CodePrincipal] Fin du code principal"
 Write-Output "Fin de l'exécution du script"
